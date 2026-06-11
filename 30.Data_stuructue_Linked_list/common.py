@@ -1,4 +1,3 @@
-#here we try to add new element in array from user input 
 
 class Node:
     def __init__(self , value):
@@ -58,4 +57,3 @@ def better_input():
 # newhead = take_input()
 newhead = better_input()
 print_LL(newhead)
-            
